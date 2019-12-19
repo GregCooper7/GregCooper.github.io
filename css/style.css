@@ -22,6 +22,7 @@ main {
 h1 {
   margin: 0;
 
+  font-size: 50pt;
   position: absolute;
   top: 40%;
   left: 35%;
@@ -32,24 +33,12 @@ h1 {
 
 h2 {
   margin: 0;
-  
+  font-size: 40pt;
   position: absolute;
-  top: 46%;
-  left: 37%;
+  top: 48%;
+  left: 35%;
   text-align: center;
-  font-weight: normal;
+  font-weight: lighter;
   letter-spacing: -1px;
 }
 
-p {
-  margin: 20px 0;
-}
-
-a:link, a:visited {
-  color: #ffffff;
-  text-decoration: underline
-}
-
-a:hover {
-  text-decoration: none
-}
