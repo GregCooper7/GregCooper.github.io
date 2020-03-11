@@ -1,1 +1,0 @@
-# GregCooper.github.io
